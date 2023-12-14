@@ -1,9 +1,8 @@
 Thank you for Downloading my script here are the instructions below
 
----------------------
--- Head Over To WatermarkForFiveM\nui\images And replace your image.
--- name logo.png make sure the size is 30x 30x
----------------------
+-- Instructions
+Head Over To WatermarkForFiveM\nui\images And replace your image.
+name logo.png make sure the size is 30x 30x
 
 Find any bugs contact me on discord filip_c758
 
