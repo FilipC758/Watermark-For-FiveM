@@ -11,3 +11,8 @@ Find any bugs contact me on discord filip_c758
 
 Make Sure to Follow to Lz Gaming Tiktok
 https://www.tiktok.com/@tomlzgaming
+
+-- ToS
+
+-- YOU MAY NOT RESELL THIS SCRIPT
+-- YOU MAY NOT CLAIM AS YOUR OWN
