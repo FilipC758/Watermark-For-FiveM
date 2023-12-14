@@ -1,7 +1,12 @@
 Thank you for Downloading my script here are the instructions below
 
-[-- Instructions
-https://app.gitbook.com/o/OCTw2Enqxaavd6nCBA06/s/ubrZnBTeAqfmLgoghjVK/
+How to change image
+-----------------------------------------------
+-- Head Over to WatermarkForFiveM\nui\images --
+-- Create a logo with sizes 100px - 100px    --
+-- Change logo.png to your own icon          --
+-- Restart Server/Script and your done!      --
+-----------------------------------------------
 
 Find any bugs contact me on discord filip_c758
 
